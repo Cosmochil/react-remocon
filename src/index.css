@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Oxygen", "Open 24 Display St", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "source-code-pro", "Menlo", "Monaco", "Consolas", "Courier New",
+    "Open 24 Display St" monospace;
+}
+
+@font-face {
+  font-family: "Open 24 Display St";
+  src: url('src/components/fonts/Open 24 Display St.ttf');
+}
+@font-face {
+  font-family: "Digital7Mono";
+  src: url('src/components/fonts/Digital7Mono.ttf')
+}
